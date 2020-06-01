@@ -1,22 +1,21 @@
 ---
-title: Hello World
+title: Lorem ipsum
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Was es nicht so alles für Lorm ipsum Fülltexte gibt..."
 ---
 
-This is my first post on my new fake blog! How exciting!
+##Wow, es gibt sogar einen Lorem ipsum Text im Trump-Stil
 
-I'm sure I'll write a lot more interesting things in the future.
+**Hier ein kleiner Auszug für euch:**
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+>I have a 10 year old son. He has words. He is so good with these words it's unbelievable. This placeholder text is gonna be HUGE. Some people have an ability to write placeholder text... It's an art you're basically born with. You either have it or you don't. We have so many things that we have to do better... and certainly ipsum is one of them.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+>Lorem Ispum is a choke artist. It chokes! An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud. That other text? Sadly, it’s no longer a 10.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+**Daneben gibt es aber natürlich auc das sogennante "Hipster-Ipsum":**
+
+>Street art biodiesel fingerstache, gentrify small batch fam cold-pressed pop-up raclette blog. Everyday carry waistcoat listicle normcore plaid jean shorts. Hoodie neutra small batch chillwave fanny pack woke tote bag selvage you probably haven't heard of them synth health goth poke wolf poutine squid. Kale chips flannel schlitz intelligentsia meggings pabst four loko. Helvetica ugh pork belly, succulents keytar chartreuse woke normcore gochujang.
+
+**Und zum Schluss habe ich auch noch einen Fülltext gefunden, der sich "Cheese-Ipsum" nennt. Man, da läuft einem ja das Wasser im Mund zusammen!**
+
+>I love cheese, especially fromage frais mozzarella. Chalk and cheese cheese strings halloumi cow fromage frais danish fontina cheese strings monterey jack. When the cheese comes out everybody's happy cheeseburger swiss airedale taleggio dolcelatte macaroni cheese lancashire. Cheese on toast airedale.
