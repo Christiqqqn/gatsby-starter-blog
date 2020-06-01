@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Christians Blog`,
+    title: `Rundgang Pfingstakademie`,
     author: {
       name: `Christian Wex`,
       summary: `who lives and works in Mülheim an der Ruhr building useful things.`
